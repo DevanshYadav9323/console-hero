@@ -1,6 +1,6 @@
 {
   "name": "console-hero",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unleash the power of AI in your browser console: fix runtime errors instantly, access cheat sheets effortlessly, and chat with Gemini AI — all directly in the console. Become the ultimate Console Hero!",
   "main": "index.jsx",
   "scripts": {
@@ -19,7 +19,7 @@
     "google"
   ],
   "author": "Devansh Yadav",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DevanshYadav9323/console-hero/issues"
   },
